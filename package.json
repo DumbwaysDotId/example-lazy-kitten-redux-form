@@ -1,0 +1,29 @@
+{
+  "name": "ExampleLkReduxForm",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "babel-preset-react-native": "2.1.0",
+    "lazy-kitten-redux-form": "^0.0.1",
+    "react": "16.3.1",
+    "react-native": "0.55.3",
+    "react-native-ui-kitten": "^3.0.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-form": "^7.3.0",
+    "redux-logger": "^3.0.6",
+    "validatorjs": "^3.14.2"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
