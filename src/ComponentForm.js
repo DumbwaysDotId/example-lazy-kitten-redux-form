@@ -7,7 +7,7 @@ import lang from 'validatorjs/src/lang';
 import en from 'validatorjs/src/lang/en';
 lang._set('en', en);
 
-import { LkTextInput, LkPicker, LkRadioButton, LkCheckbox } from '../lib';
+import { LkTextInput, LkPicker, LkRadioButton, LkCheckbox } from 'lazy-kitten-redux-form';
 
 const validate = values => {
   const rules = {

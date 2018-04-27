@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "babel-preset-react-native": "2.1.0",
-    "lazy-kitten-redux-form": "^0.0.1",
+    "lazy-kitten-redux-form": "^0.0.2",
     "react": "16.3.1",
     "react-native": "0.55.3",
     "react-native-ui-kitten": "^3.0.0",
